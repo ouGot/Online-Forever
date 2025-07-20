@@ -1,3 +1,10 @@
+# Online Forever - Modified Version
+
+This is a modified version of [SealedSaucer/Online-Forever](https://github.com/SealedSaucer/Online-Forever).
+
+All rights and original work belong to [SealedSaucer](https://github.com/SealedSaucer).  
+
+
 <div id="SealedSaucer" align="center">
     <h1>Online Forever</h1>
     <p>Make Your Discord Account 24/7 Online!</p>
